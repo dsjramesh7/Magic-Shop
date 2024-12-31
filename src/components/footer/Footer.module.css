@@ -1,0 +1,29 @@
+.cFooterWrapper{
+  width: 100%;
+  margin-top: 5rem;
+}
+
+.cFooterWrapper>hr{
+  width: 90%;
+  height: 2px;
+  border: none;
+  background: rgb(248, 104, 104);
+  margin-top: 1rem;
+}
+
+.cFooter{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.cFooterSentence{
+  font-size: 1.5rem;
+}
+
+.cFooterSentence span{
+  color: red;
+  text-transform: uppercase;
+}
+
+
